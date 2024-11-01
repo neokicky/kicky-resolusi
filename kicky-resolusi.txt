@@ -1,7 +1,7 @@
 KICKY RESOLUSI
 -konsisten belajar tiap hari
 -minimal sehari ada hal baru yang di pelajari
--latihan membuat website
 -buatlah perubahan untuk dunia
 -kuasain dunia
 -bantu semua orang
+-membuat web
